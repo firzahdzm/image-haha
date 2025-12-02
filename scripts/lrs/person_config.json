@@ -122,7 +122,7 @@
             "train_batch_size": 4,
             "gradient_accumulation_steps": 4,
             "min_snr_gamma": 7,
-            "max_train_epochs": 25,
+            "max_train_epochs": 5,
             "network_alpha": 32,
             "network_dim": 32,
             "network_args": [
